@@ -1,0 +1,54 @@
+body{
+		background-color: #E3E3E3;
+		font-family: Calibri Light; 
+}
+
+#container{
+		background-color: white;
+		width: 1260px;
+		margin-left: auto;
+		margin-right: auto;
+}
+#header{
+	background-color: white;
+	color: #44B6D0;
+	text-align: centre;
+	display: block;
+	padding: 1px;
+}
+
+#content{
+	padding: 10px;
+	
+}
+
+
+#nav{
+	border-right: solid white;
+	background-color: #44B6D0;;
+	width: 145px;
+	text-align: centre;
+	float: left;
+}
+#nav ul{
+	list-style-type: none;
+	padding: 0;
+}
+
+#main{
+	
+	padding: 10px;
+	background-image: url("../images/pic_05.jpg");
+	width: 1068px;
+	float: left;
+	text-align: centre;
+}
+
+#main table{
+	
+}
+
+#footer{
+	clear: both;
+	text-align: right;
+}
